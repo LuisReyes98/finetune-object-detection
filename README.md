@@ -34,5 +34,5 @@ https://www.kaggle.com/models/google/mobilenet-v2
 
 Roboflow Datasets: https://public.roboflow.com/object-detection
 
-Tensorflow Dataset: https://www.tensorflow.org/datasets/catalog/overview#object_detection
+Tensorflow Datasets: https://www.tensorflow.org/datasets/catalog/overview#object_detection
 
